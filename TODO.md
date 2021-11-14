@@ -1,0 +1,49 @@
+- Späher am Anfang für beide Spieler.
+- Hafen für Spieler 1.
+- Rohstoffforschungen wie Karren für Spieler 1 sperren.
+- Bartaxt für Spieler 2 sperren.
+- Eliteaxtwerfer und Chevalier für Spieler 2 deaktivieren.
+- Mehr Tiere, Felsen, Minen verteilen usw und mehr Bäume.
+- Universität für Spieler 1 fehlt.
+- Stellnetze für Spieler 1 deaktivieren.
+- Spieler 1: Keine Triboke, Petardiere oder Belagerungswaffen/Waffenschmiede.
+- Spieler 1: Keine Kriegsschiffe evtl.
+- Optionale Ziele als Option markieren.
+- Untere drei Ziele als oder zusammenfassen.
+- Spion deaktivieren für alle oder Preis einstellen.
+- Geschützte Handelstraße zwischen Briten und Burgund an die wir nicht rankommen.
+- Beim Briten soll man nicht einfach zum Hafen reinfahren können.
+- Trotzdem durch Fluss erreichbar machen aber innen.
+- Burgund und England sollten mit Grau verbündet sein.
+- Gelbhackt - Bug
+- Frieden kaufen für 10 Minuten oder so für Gold.
+- Grenzen von Burgund und England befestigen, Burgen an Wasserübergängen.
+- Wenig Landepunkte bei den Hexen.
+- Abgeschnittenen Land- und Wasserhandelsweg zwischen Briten und Burgund machen.
+- Eis oder so um die Brücken von Burgund.
+- Der Heilige Orden soll am Anfang mit Spieler 1 und 2 verfeindet sein.
+- Dem heiligen Orden mehr geben, stärker machen und sehr viele Reliquien damit sich der kauf lohnt.
+- Preis auf 80 000 reduzieren.
+- Gelb darf nicht verfeindet sein, trotzdem keine gemeinsame sicht vllt Burg weg machen. Es kam keine Nachricht als Spieler 2 mit Katapult rein ist.
+- Schicken an heiligen Orden ist kaputt.
+- Reliquien hinlegen geht auch nicht.
+- Bauern nicht neutral aber auch keine gemeinsame Sicht.
+- Ereignisse verodern, deshalb ging nichts.
+- Spieler 2 braucht 300 Bevölkerung.
+- 1000 Kills für Burgund hat funktioniert.
+- Spieler 1 sollte Franken sein: Schnellere Ställe, bessere Reiter usw. oder Vökker wählbar.
+- Mehr Felsen und enge Gänge für die Burgunder bauen.
+- Der mittlere Zugang bei Burgund macht es zu einfach.
+- Lila hat graue Mönche bei der Übernahme nicht bekommen.
+- Türkis baut sich zu, Pfade zwischen Wäldern.
+- AUs unterdrückten Bauern Burgunds ARmee machen und Zelte usw ihnen geben.
+- rechterEingang nach Burgund ist einfacher, mehr Felsen.
+- Feuertürmen von Brugund größere Reichweite geben.
+- Reliquien dichter einwalden.
+- Mehr Feuertürme.
+- Lila Reliquien oben in Klostern geben zum Erobern.
+- Höheres Bevölkerungslimit käuflich machen.
+- Mehr Verteidiger innen bei Burgund einschließen. Burgunds Armee -> Elitekrieger mit hoher Reichweite.
+- Burgund Tor obwohl kein Durchgang links.
+- Der heilige Orden könnte einen am Anfang belagern.
+- Wenn man die Briten besiegt hat kriegt man einen erhöhten Bevölkerungsbonus.
